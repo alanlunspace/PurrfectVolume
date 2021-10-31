@@ -36,7 +36,7 @@ class Volimiter {
   }
 }
 
-const PurrfectVolume = new Volimiter("Purrfect volume 😸", 45);
+const PurrfectVolume = new Volimiter("Purrfect volume 😸", 40);
 PurrfectVolume.showNotification();
 
 function idle() {
